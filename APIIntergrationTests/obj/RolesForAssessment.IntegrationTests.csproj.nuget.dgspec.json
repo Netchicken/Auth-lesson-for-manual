@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Dropbox\\AAA 2022 new course dev\\605 Security\\Auth lesson for manual\\APIIntergrationTests\\APIIntegrationTests.csproj": {}
+    "C:\\Dropbox\\AAA 2022 new course dev\\605 Security\\Auth lesson for manual\\APIIntergrationTests\\RolesForAssessment.IntegrationTests.csproj": {}
   },
   "projects": {
-    "C:\\Dropbox\\AAA 2022 new course dev\\605 Security\\Auth lesson for manual\\APIIntergrationTests\\APIIntegrationTests.csproj": {
+    "C:\\Dropbox\\AAA 2022 new course dev\\605 Security\\Auth lesson for manual\\APIIntergrationTests\\RolesForAssessment.IntegrationTests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Dropbox\\AAA 2022 new course dev\\605 Security\\Auth lesson for manual\\APIIntergrationTests\\APIIntegrationTests.csproj",
-        "projectName": "APIIntegrationTests",
-        "projectPath": "C:\\Dropbox\\AAA 2022 new course dev\\605 Security\\Auth lesson for manual\\APIIntergrationTests\\APIIntegrationTests.csproj",
+        "projectUniqueName": "C:\\Dropbox\\AAA 2022 new course dev\\605 Security\\Auth lesson for manual\\APIIntergrationTests\\RolesForAssessment.IntegrationTests.csproj",
+        "projectName": "RolesForAssessment.IntegrationTests",
+        "projectPath": "C:\\Dropbox\\AAA 2022 new course dev\\605 Security\\Auth lesson for manual\\APIIntergrationTests\\RolesForAssessment.IntegrationTests.csproj",
         "packagesPath": "C:\\Users\\gary.dix\\.nuget\\packages\\",
         "outputPath": "C:\\Dropbox\\AAA 2022 new course dev\\605 Security\\Auth lesson for manual\\APIIntergrationTests\\obj\\",
         "projectStyle": "PackageReference",
